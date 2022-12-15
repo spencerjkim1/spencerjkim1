@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @spencerjkim1
-- 👀 I’m interested in working for a company to further progress my coding skills and to work on projects for those companies!
+- 👀 I’m interested in working for a company to further progress my coding skills and to work on project that can actually make a change!
 - 🌱 I’m currently learning Computer Science at the Georgia Institute of Technology.
 - 📫 How to reach me: spencerjkim@outlook.com/spencerjkim@gatech.edu
 
